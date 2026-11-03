@@ -6,9 +6,9 @@
 
 Riverz connects product research, creative generation, and video editing. The goal is to carry useful product context through the creative process instead of rebuilding it for each tool.
 
-![Riverz research workflow on a mobile viewport](assets/research-workflow.png)
+![Riverz internal video editor in an English light presentation](assets/editor-workspace-light-en.png)
 
-*Research workflow screenshot, captured October 2026. This is a product interface example, not a performance or customer-results claim.*
+*Internal editor, English interface, empty project. Light presentation applied locally to the rendered UI for this portfolio; the current product ships a dark theme. [Capture details](SCREENSHOTS.md).*
 
 ## Explore five parts of Riverz AI
 

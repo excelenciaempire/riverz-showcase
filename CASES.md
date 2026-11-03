@@ -14,6 +14,6 @@ The editor and creative-generation cases share the same media/project platform. 
 
 ## Public evidence
 
-The overview includes a real product screenshot. The five examples are deliberately small technical illustrations, not screenshots, benchmark results, a full interactive editor, or paid-generation demos. Product documentation and selected source/test structures were reviewed; current complete product suites were not rerun for this publication.
+The overview includes an internal editor capture with a local light presentation, documented in its capture notes. The five examples are deliberately small technical illustrations, not screenshots, benchmark results, a full interactive editor, or paid-generation demos. Product documentation and selected source/test structures were reviewed; current complete product suites were not rerun for this publication.
 
 [Overview](README.md) · [Engineering notes](ENGINEERING.md)
