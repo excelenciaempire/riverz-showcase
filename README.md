@@ -10,6 +10,22 @@ Riverz carries product context from research into creative concepts, generated m
 
 *Original web-editor capture, November 3, 2026. The project is empty. [Capture details](SCREENSHOTS.md).*
 
+## Inside the application
+
+### Director script workspace
+
+![Director script workspace](assets/director-script.png)
+
+Live web application, November 3, 2026; native English/dark interface. The script is empty and generation has not been run.
+
+### Landing Lab
+
+![Landing Lab](assets/landing-lab.png)
+
+Live page-creation workspace, November 3, 2026; native English/dark interface. This shows the input and page-type choices, not a generated landing page.
+
+[Capture provenance](SCREENSHOTS.md)
+
 ## My contribution
 
 I develop the product workflows, web interface, media processing, project persistence and integrations. I also work on a Windows desktop development preview with local editing and optional account synchronization.
@@ -24,4 +40,4 @@ Editing actions use shared planning rules across the interface and programmatic 
 
 **All my development work presented here was done with AI assistance.** I use programming and software engineering fundamentals to define requirements, review code, test behavior and take responsibility for technical decisions.
 
-This repository contains documentation and an original screenshot. Application source is private. The web product requires an account; the Windows version is a development preview.
+This repository contains documentation and original interface screenshots. Application source is private. The web product requires an account; the Windows version is a development preview.
