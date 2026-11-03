@@ -23,9 +23,13 @@ These are components of the same product. Each public case explains a specific e
 3. Assemble and refine media in a timeline editor.
 4. Review the work and export through the relevant processing workflow.
 
+## How I build with AI
+
+**All of my development work presented here was done with AI assistance.** I use AI throughout implementation, debugging and validation. I understand programming and software engineering fundamentals, and use them to define requirements, guide the tools, review changes and check how the software actually behaves. I take responsibility for technical decisions and results.
+
 ## My work
 
-I develop Riverz across product behavior, the web application, integrations, media workflows, and a Windows desktop development preview. The implementation uses AI-assisted development with source review and automated validation.
+I develop Riverz across product behavior, the web application, integrations, media workflows, and a Windows desktop development preview.
 
 Representative areas include shared editing behavior across web and desktop, reversible media edits, persistent project state, background processing, and account-scoped MCP access.
 
