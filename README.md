@@ -2,13 +2,19 @@
 
 **AI creative workflows for ecommerce teams.**
 
-[Product](https://riverzai.com) · [Engineering notes](ENGINEERING.md) · [Juan Rios](https://github.com/excelenciaempire)
+[Product](https://riverzai.com) · [Five engineering cases](CASES.md) · [Engineering notes](ENGINEERING.md) · [Juan Rios](https://github.com/excelenciaempire)
 
 Riverz connects product research, creative generation, and video editing. The goal is to carry useful product context through the creative process instead of rebuilding it for each tool.
 
 ![Riverz research workflow on a mobile viewport](assets/research-workflow.png)
 
 *Research workflow screenshot, captured October 2026. This is a product interface example, not a performance or customer-results claim.*
+
+## Explore five parts of Riverz AI
+
+[Video editor](https://github.com/excelenciaempire/riverz-editor) · [Creative generation](https://github.com/excelenciaempire/riverz-director) · [Research](https://github.com/excelenciaempire/riverz-research) · [Integrations](https://github.com/excelenciaempire/riverz-integrations-showcase) · [Windows desktop](https://github.com/excelenciaempire/riverz-desktop-showcase)
+
+These are components of the same product. Each public case explains a specific engineering problem and includes a new, isolated Python example using fictional data. [Compare the cases](CASES.md).
 
 ## The workflow
 
