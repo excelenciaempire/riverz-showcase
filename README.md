@@ -1,54 +1,27 @@
-# Riverz
+# Riverz AI
 
-**AI creative workflows for ecommerce teams.**
+**Product research, AI creative generation and video editing for ecommerce teams.**
 
-[Product](https://riverzai.com) · [Five engineering cases](CASES.md) · [Engineering notes](ENGINEERING.md) · [Juan Rios](https://github.com/excelenciaempire)
+[Product](https://riverzai.com) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
 
-Riverz connects product research, creative generation, and video editing. The goal is to carry useful product context through the creative process instead of rebuilding it for each tool.
+Riverz carries product context from research into creative concepts, generated media and an editable video timeline.
 
-![Actual Riverz AI web editor in its native dark theme](assets/editor-workspace.png)
+![Riverz AI web editor](assets/editor-workspace.png)
 
-*Actual web editor, captured directly on November 3, 2026. Native dark theme; no media is loaded in this project. [Capture details](SCREENSHOTS.md).*
+*Original web-editor capture, November 3, 2026. The project is empty. [Capture details](SCREENSHOTS.md).*
 
-## Explore five parts of Riverz AI
+## My contribution
 
-[Video editor](https://github.com/excelenciaempire/riverz-editor) · [Creative generation](https://github.com/excelenciaempire/riverz-director) · [Research](https://github.com/excelenciaempire/riverz-research) · [Integrations](https://github.com/excelenciaempire/riverz-integrations-showcase) · [Windows desktop](https://github.com/excelenciaempire/riverz-desktop-showcase)
+I develop the product workflows, web interface, media processing, project persistence and integrations. I also work on a Windows desktop development preview with local editing and optional account synchronization.
 
-These are components of the same product. Each public case explains a specific engineering problem and includes a new, isolated Python example using fictional data. [Compare the cases](CASES.md).
+The workflow covers product research, concept review, image/video generation, timeline editing and export. The [component cases](CASES.md) explain the different engineering problems within this one product.
 
-## The workflow
+## A technical decision
 
-1. Gather and organize product context and supporting evidence.
-2. Develop creative concepts and generate image or video assets.
-3. Assemble and refine media in a timeline editor.
-4. Review the work and export through the relevant processing workflow.
+Editing actions use shared planning rules across the interface and programmatic tools. Separating a clip's audio must preserve timing and sound settings, support undo and retain unrelated edits during recovery. [Read the decisions](ENGINEERING.md).
 
-## How I build with AI
+**TypeScript · React · Next.js · PostgreSQL/Supabase · Clerk · Electron · SQLite · FFmpeg**
 
-**All of my development work presented here was done with AI assistance.** I use AI throughout implementation, debugging and validation. I understand programming and software engineering fundamentals, and use them to define requirements, guide the tools, review changes and check how the software actually behaves. I take responsibility for technical decisions and results.
+**All my development work presented here was done with AI assistance.** I use programming and software engineering fundamentals to define requirements, review code, test behavior and take responsibility for technical decisions.
 
-## My work
-
-I develop Riverz across product behavior, the web application, integrations, media workflows, and a Windows desktop development preview.
-
-Representative areas include shared editing behavior across web and desktop, reversible media edits, persistent project state, background processing, and account-scoped MCP access.
-
-## Technical scope
-
-- **Web:** TypeScript, React, Next.js, and Tailwind CSS.
-- **Data and accounts:** PostgreSQL/Supabase and Clerk.
-- **Media:** FFmpeg/ffprobe, asset libraries, timeline editing, and background workers.
-- **Desktop:** Electron with local project persistence; the desktop preview has its own delivery and validation requirements.
-- **Integrations:** account-scoped MCP tools and external media services.
-
-## Engineering focus
-
-An editing action needs consistent meaning across interfaces. Separating a clip's audio, for example, must preserve timing and sound settings while allowing a deliberate undo. Saving or recovering an interrupted operation must preserve the user's other edits.
-
-The [engineering notes](ENGINEERING.md) describe these constraints and the validation approach.
-
-## Repository scope
-
-This repository contains a public product and engineering case study. The application source, operational configuration, and customer data are private. The product link may require an account; the desktop preview is not presented here as a generally available signed release.
-
-For professional inquiries, [open an issue](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry).
+This repository contains documentation and an original screenshot. Application source is private. The web product requires an account; the Windows version is a development preview.

@@ -1,35 +1,17 @@
-# Engineering notes
+# Riverz AI engineering
 
-## A connected creative workflow
+## Shared editing rules
 
-The application combines product context, creative assets, and editable projects. Background media work has a different lifetime from an interactive request, so its state must remain useful when a browser reloads or an external service responds late.
+The web editor, commands and desktop editor use a shared planning layer for media edits. A separated video/audio pair has explicit identities, timing and sound settings. Separation is one undoable operation; restore preserves unrelated visual edits and refuses ambiguous pairs.
 
-At a high level, the web interface reads and updates project state; background workers process media; stored results return to the relevant project. The desktop development preview adds local persistence and account-connected capabilities.
+## Project state and recovery
 
-## Reversible media operations
+Stable command IDs let an interrupted operation recover its result without applying an edit twice. Revision comparisons prevent stale commands from replacing newer work. Generation, media availability and placement in the timeline have separate states.
 
-Audio extraction is a useful example of the design requirements:
+## Media validation
 
-- Preserve clip timing, trim boundaries, gain, and fades.
-- Keep an explicit relationship between separated video and audio.
-- Treat the operation as one undoable change.
-- Detect ambiguous changes before restoring a pair.
-- Verify silence in actual media output, as well as in editor state.
+The private implementation includes regression tests for editing and persistence, alongside native FFmpeg/ffprobe checks where rendered output matters. A timeline mute flag must produce silence in the exported media. Desktop runtime checks cover a different environment from web tests.
 
-These requirements extend beyond drawing two clips on a timeline. They affect preview, saved state, export, and recovery.
+These notes summarize the implementation and its validation approach; they are not a current whole-product CI report.
 
-## Recovery and concurrent changes
-
-An interrupted request should retain a stable operation identity. Retrying a completed operation should recover its result rather than applying the edit twice. Revision checks help prevent stale work from replacing a newer user edit.
-
-External generation, asset publication, and timeline placement also have distinct states. A generated asset being available does not, by itself, establish that it has been reviewed or placed correctly.
-
-## Validation approach
-
-The private project includes focused regression suites for editing commands, project persistence, and media workflows. Native media checks use FFmpeg/ffprobe where file output matters. Desktop runtime checks are separate from web tests.
-
-This public case study does not publish a current CI result, benchmark, or comprehensive production certification. A passing unit test, a working preview, and a distributed desktop installer are different pieces of evidence.
-
-## Discuss in an interview
-
-I can walk through reversible edits, lost-response recovery, revision conflicts, and the tradeoffs of supporting both cloud-connected and local editing.
+[Component cases](CASES.md) · [Product overview](README.md)
