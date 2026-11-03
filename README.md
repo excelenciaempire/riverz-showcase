@@ -2,9 +2,9 @@
 
 **Product research, AI creative generation and video editing for ecommerce teams.**
 
-[Product](https://riverzai.com) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
+[Product](https://riverzai.com) · [Product map](CAPABILITIES.md) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
 
-Riverz carries product context from research into creative concepts, generated media and an editable video timeline.
+Riverz carries product context from research into creative concepts, generated media and an editable video timeline. It also includes Landing Lab, CRO experiments, product-image workflows and marketing/assistant tools. [Explore the full scope](CAPABILITIES.md).
 
 ![Riverz AI web editor](assets/editor-workspace.png)
 
