@@ -1,11 +1,7 @@
-# Interface capture provenance
+# Original interface screenshot
 
-The source is the actual authenticated Riverz AI web editor, captured on 2026-11-03 with a new empty project and the supported English interface. No customer media, product research or account identifiers are shown.
+This PNG was captured directly from the running, authenticated Riverz AI web editor on 2026-11-03 using Chrome Page.captureScreenshot. It shows the native dark interface, generation controls, timeline and an empty project. The visible controls do not establish that a generation or export was completed.
 
-The current application ships a dark theme. Light colors were applied locally to a frozen copy of its rendered DOM for this portfolio. This image is not evidence of a shipped light-mode setting. Layout, controls and labels come from the application; no timeline content, generated media or successful operation was invented.
-
-## Capture method
-
-The browser’s native snapshot tool timed out. The image was therefore rendered from a frozen copy of the loaded interface DOM and its styles, with fonts retained. Application scripts, hidden inputs and live connections were excluded. This is a static interface view, not a runnable app, an end-to-end test result or a newly verified product release.
+The screenshot retains the application’s actual colors and text, including the welcome message retained in the project. Its pixels were copied unchanged into this repository. Customer media, account identifiers and product research are outside this view.
 
 [Back to the case study](README.md)

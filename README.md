@@ -6,9 +6,9 @@
 
 Riverz connects product research, creative generation, and video editing. The goal is to carry useful product context through the creative process instead of rebuilding it for each tool.
 
-![Riverz internal video editor in an English light presentation](assets/editor-workspace-light-en.png)
+![Actual Riverz AI web editor in its native dark theme](assets/editor-workspace.png)
 
-*Internal editor, English interface, empty project. Light presentation applied locally to the rendered UI for this portfolio; the current product ships a dark theme. [Capture details](SCREENSHOTS.md).*
+*Actual web editor, captured directly on November 3, 2026. Native dark theme; no media is loaded in this project. [Capture details](SCREENSHOTS.md).*
 
 ## Explore five parts of Riverz AI
 
