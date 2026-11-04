@@ -6,9 +6,15 @@
 
 Riverz carries product context from research into creative concepts, generated media and an editable video timeline. It also includes Landing Lab, CRO experiments, product-image workflows and marketing/assistant tools. [Explore the full scope](CAPABILITIES.md).
 
-![Riverz AI web editor](assets/editor-workspace.png)
+## Product areas
 
-*Original web-editor capture, November 3, 2026. The project is empty. [Capture details](SCREENSHOTS.md).*
+| Area | Focus |
+| --- | --- |
+| [Product research](https://github.com/excelenciaempire/riverz-research) | Product, audience and market context |
+| [Director](https://github.com/excelenciaempire/riverz-director) | Creative concepts, scripts and generation workflows |
+| [Video editor](https://github.com/excelenciaempire/riverz-editor) | Timeline, media operations and export |
+| [Landing Lab and CRO](CAPABILITIES.md) | Product pages, templates and experiments |
+| [Marketing and integrations](https://github.com/excelenciaempire/riverz-integrations-showcase) | Account connections and marketing workflows |
 
 ## Inside the application
 
@@ -16,13 +22,19 @@ Riverz carries product context from research into creative concepts, generated m
 
 ![Director script workspace](assets/director-script.png)
 
-Live web application, November 3, 2026; native English/dark interface. The script is empty and generation has not been run.
+Original web capture, November 3, 2026; native English/dark interface. This is the script workspace with an empty script.
 
 ### Landing Lab
 
 ![Landing Lab](assets/landing-lab.png)
 
-Live page-creation workspace, November 3, 2026; native English/dark interface. This shows the input and page-type choices, not a generated landing page.
+Original web capture, November 3, 2026; native English/dark interface. This shows the page-creation input and page-type choices.
+
+### Video editor
+
+![Video editor module: generation controls and timeline](assets/editor-workspace.png)
+
+Original web-editor capture, November 3, 2026; native dark interface with an empty project. [Editor engineering case](https://github.com/excelenciaempire/riverz-editor).
 
 [Capture provenance](SCREENSHOTS.md)
 

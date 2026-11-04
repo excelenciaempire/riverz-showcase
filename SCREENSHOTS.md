@@ -1,4 +1,8 @@
-# Original interface screenshot
+# Original interface captures
+
+The README presents Director, Landing Lab and the video editor as individual areas of Riverz AI. Each capture shows only its named workspace. The editor image is the video-editing module with an empty project.
+
+## Video editor
 
 This PNG was captured directly from the running, authenticated Riverz AI web editor on 2026-11-03 using Chrome Page.captureScreenshot. It shows the native dark interface, generation controls, timeline and an empty project. The visible controls do not establish that a generation or export was completed.
 
