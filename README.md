@@ -1,55 +1,56 @@
 # Riverz AI
 
-**Product research, AI creative generation and video editing for ecommerce teams.**
+**Research, creative production and commerce tools for ecommerce teams.**
 
-[Product](https://riverzai.com) · [Product map](CAPABILITIES.md) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
+[Product](https://riverzai.com) · [Capabilities](CAPABILITIES.md) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Screenshots](SCREENSHOTS.md)
 
-Riverz carries product context from research into creative concepts, generated media and an editable video timeline. It also includes Landing Lab, CRO experiments, product-image workflows and marketing/assistant tools. [Explore the full scope](CAPABILITIES.md).
-
-## Product areas
-
-| Area | Focus |
-| --- | --- |
-| [Product research](https://github.com/excelenciaempire/riverz-research) | Product, audience and market context |
-| [Director](https://github.com/excelenciaempire/riverz-director) | Creative concepts, scripts and generation workflows |
-| [Video editor](https://github.com/excelenciaempire/riverz-editor) | Timeline, media operations and export |
-| [Landing Lab and CRO](CAPABILITIES.md) | Product pages, templates and experiments |
-| [Marketing and integrations](https://github.com/excelenciaempire/riverz-integrations-showcase) | Account connections and marketing workflows |
+Riverz connects product and market research with creative concepts, generated media, video editing and landing-page workflows. Research, Director, the editor, integrations and the Windows preview are parts of this one product.
 
 ## Inside the application
+
+### Product research
+
+![Riverz research workspace with its recorded workflow](assets/research-graph-2026-10-27.png)
+
+Archived application capture, October 27, 2026; native Spanish/dark interface with a fictional planning persona. This shows the recorded research workflow.
+
+### Landing Lab
+
+![Landing Lab page-creation workspace](assets/landing-lab.png)
+
+Actual application capture, November 3, 2026; native English/dark interface. This is the page-creation workspace, before generating a page.
+
+<details>
+<summary>Video editor and additional interface captures</summary>
+
+### Web video editor
+
+![Web video editor: generation controls and timeline](assets/editor-workspace.png)
+
+Actual web capture, November 3, 2026; empty project.
+
+### Windows development preview
+
+![Windows development preview with a QA timeline](assets/desktop-editor-qa-2026-10-02.png)
+
+Archived native QA capture, October 2, 2026; English/dark interface with synthetic test media. This is a development preview.
 
 ### Director script workspace
 
 ![Director script workspace](assets/director-script.png)
 
-Original web capture, November 3, 2026; native English/dark interface. This is the script workspace with an empty script.
+Actual web capture, November 3, 2026; native English/dark interface with an empty script.
 
-### Landing Lab
-
-![Landing Lab](assets/landing-lab.png)
-
-Original web capture, November 3, 2026; native English/dark interface. This shows the page-creation input and page-type choices.
-
-### Video editor
-
-![Video editor module: generation controls and timeline](assets/editor-workspace.png)
-
-Original web-editor capture, November 3, 2026; native dark interface with an empty project. [Editor engineering case](https://github.com/excelenciaempire/riverz-editor).
-
-[Capture provenance](SCREENSHOTS.md)
+</details>
 
 ## My contribution
 
-I develop the product workflows, web interface, media processing, project persistence and integrations. I also work on a Windows desktop development preview with local editing and optional account synchronization.
+I develop application workflows, the web interface, project persistence, media processing and external-service integrations. My work also includes the Windows desktop development preview with local editing and optional synchronization.
 
-The workflow covers product research, concept review, image/video generation, timeline editing and export. The [component cases](CASES.md) explain the different engineering problems within this one product.
-
-## A technical decision
-
-Editing actions use shared planning rules across the interface and programmatic tools. Separating a clip's audio must preserve timing and sound settings, support undo and retain unrelated edits during recovery. [Read the decisions](ENGINEERING.md).
+The [engineering cases](CASES.md) cover source-aware research, editorial timing, reversible editing, account permissions and project recovery. [The product map](CAPABILITIES.md) covers Landing Lab, CRO, product-image and marketing work, including operating limits.
 
 **TypeScript · React · Next.js · PostgreSQL/Supabase · Clerk · Electron · SQLite · FFmpeg**
 
-**All my development work presented here was done with AI assistance.** I use programming and software engineering fundamentals to define requirements, review code, test behavior and take responsibility for technical decisions.
+**All my development work presented here was done with AI assistance.** I define requirements, review code, test behavior and take responsibility for technical decisions, using programming and software engineering fundamentals.
 
-This repository contains documentation and original interface screenshots. Application source is private. The web product requires an account; the Windows version is a development preview.
+Application source is private. The web application requires an account; the Windows version is a development preview.

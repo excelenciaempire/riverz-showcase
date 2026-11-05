@@ -33,3 +33,15 @@ Live page-creation workspace, November 3, 2026; native English/dark interface. T
 Direct Chrome Page.captureScreenshot from the authenticated Landing Lab route; no customer records or generated strategy documents are visible.
 
 SHA-256: `9d0965fbea90b63335f34733cfabec146070e496133687aed76dbed81c13a2b0`
+
+## Consolidated component captures
+
+The original component cases now live within this repository. Their provenance records identify native interfaces, fixture data and archived versions:
+
+- [Research captures](components/research/SCREENSHOTS.md)
+- [Creative-generation capture](components/creative-generation/SCREENSHOTS.md)
+- [Video-editor captures](components/video-editor/SCREENSHOTS.md)
+- [Assistant-integration capture](components/assistant-integrations/SCREENSHOTS.md)
+- [Windows development-preview capture](components/windows-desktop/SCREENSHOTS.md)
+
+The files were copied byte-for-byte. No generated or retouched interface image was used in consolidation.
