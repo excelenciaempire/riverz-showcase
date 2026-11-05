@@ -1,6 +1,6 @@
 # Original interface captures
 
-The README presents Director, Landing Lab and the video editor as individual areas of Riverz AI. Each capture shows only its named workspace. The editor image is the video-editing module with an empty project.
+The overview and feature tour present areas of one Riverz AI product. Each capture shows only its named workspace and recorded state; populated QA timelines are identified separately from the empty web editor.
 
 ## Video editor
 
@@ -45,3 +45,147 @@ The original component cases now live within this repository. Their provenance r
 - [Windows development-preview capture](components/windows-desktop/SCREENSHOTS.md)
 
 The files were copied byte-for-byte. No generated or retouched interface image was used in consolidation.
+
+## Functional gallery review — November 4, 2026
+
+This review adds functional context and original archived images. It does not date older images as new captures. Original pixels, language and native appearance are retained.
+
+### Research workflow — gallery record
+
+[research-graph-2026-10-27.png](assets/research-graph-2026-10-27.png)
+
+Archived October 27, 2026 application view; Spanish/dark. The planning persona is fictional.
+
+Previously published original; its original capture record is retained in SCREENSHOTS.md.
+
+SHA-256: `9378a8c8501c6b9c6e4f3907d347dadfa51f4b744c5bf3fd56f21e4632acd7ab`
+
+### Shot-by-shot storyboard — gallery record
+
+[director-storyboard-archived.jpg](assets/director-storyboard-archived.jpg)
+
+Archived Director UI with a populated review project; Spanish/dark. Capture date and release were not independently established.
+
+Original prod-storyboard-desktop.jpg from the local QA archive; reviewed for this gallery. The image shows storyboard state, not a newly generated or exported video.
+
+SHA-256: `efd65e771948e1b9b421eeb2f558c7c4e94494ba16c1f200915475de1226d535`
+
+### Script and production setup — gallery record
+
+[director-script-2026-10-28.png](assets/director-script-2026-10-28.png)
+
+October 28, 2026 signed-in application capture; Spanish/dark. The script input is empty.
+
+approach-desktop-production.png; corroborated by the director-singing-story live-ui-qa.json production verification.
+
+SHA-256: `72770f91cbafe138a1e3c9a3a26d9adfc46ff819e1a9a57a96a7fb5c4e0f196c`
+
+### Alternative hooks — gallery record
+
+[director-hooks-2026-10-28.png](assets/director-hooks-2026-10-28.png)
+
+October 28, 2026 application capture; Spanish/dark. Proposals are reviewable copy; no approval or media-generation outcome is implied.
+
+hooks-desktop-production.png and live-ui-qa.json: the audit recorded a real text-proposal request, no apply request and no new media generation.
+
+SHA-256: `50da46a3239d9103664cf9580928f38786d2f0dfd23b1c65dd40f016fa30d13c`
+
+### Cost review before production — gallery record
+
+[director-cost-review-2026-10-25.jpg](assets/director-cost-review-2026-10-25.jpg)
+
+October 25, 2026 local component QA; Spanish/dark. The displayed estimate is a historical test example, not a current quote.
+
+Original after-local-desktop.jpg from the Director approval validation archive. This is a rendered application component, not a production billing receipt.
+
+SHA-256: `ae92381bd830cd5fec84f1e98ccd17cc08d63930c1bf36f50775b90a89d6de42`
+
+### Playground model selection — gallery record
+
+[playground-models-2026-10-28.png](assets/playground-models-2026-10-28.png)
+
+October 28, 2026 production verification; Spanish/dark. Visible models reflect that date; no paid request was made for the verification.
+
+Original production-desktop.png; production-verification.json records native model choices, keyboard checks and zero paid calls.
+
+SHA-256: `27018ce804da95d05221935be9d4fc04609814481144da04da29db11d067bb4b`
+
+### Provider and price comparison — gallery record
+
+[playground-prices-2026-10-28.png](assets/playground-prices-2026-10-28.png)
+
+October 28, 2026 archived production interface; Spanish/dark. Prices are historical UI values.
+
+Original production-desktop.png from playground-cheapest-2026-10-28, retained with its production-verification.json.
+
+SHA-256: `77b7dd4afc879d450ca7789a9eda7a2a5370e70d14d6f4abbb087e4bfedde28c`
+
+### Timeline and editing activity — gallery record
+
+[editor-timeline-2026-10-24.png](assets/editor-timeline-2026-10-24.png)
+
+October 24, 2026 local editor QA; Spanish/dark with synthetic clip blocks and an empty visual preview.
+
+Original timeline-canvas-desktop.png from editor-live-activity-2026-10-24. This demonstrates the editor interface and test timeline, not a completed media export.
+
+SHA-256: `c1bc8b57783f61e2b66d60d53c030ad24f6f51013a1a3a2fa47a5991e8b40357`
+
+### Web editor generation controls — gallery record
+
+[editor-workspace.png](assets/editor-workspace.png)
+
+November 3, 2026 authenticated web capture; native English/dark; empty project.
+
+Previously published original; its original capture record is retained in SCREENSHOTS.md.
+
+SHA-256: `6776736974a4ace21b4c62da6fce3c89f832e059395af5e61a098a296715864d`
+
+### Windows development preview — gallery record
+
+[desktop-editor-qa-2026-10-02.png](assets/desktop-editor-qa-2026-10-02.png)
+
+October 2, 2026 native development validation; English/dark with synthetic test media.
+
+Previously published original; its original capture record is retained in SCREENSHOTS.md.
+
+SHA-256: `acec2dee1b8a95b73a4407869d6023f057dd74ba2f375549713798c46d580c6b`
+
+### VSL recipe editing — gallery record
+
+[vsl-recipe-component-qa.png](assets/vsl-recipe-component-qa.png)
+
+Local application-component QA; Spanish/dark with fixture copy. This is a component preview, not a captured live VSL route.
+
+Original form.png produced by visual-runtime.cjs using Electron webContents.capturePage against the implemented recipe components. The archived fixture bundle contains the application RecipeComposer source. No completed or narrated video is represented.
+
+SHA-256: `37d5295126b02ed61691b88b9cf0ffc272df5007ba4872640d1e9be00a658925`
+
+### Landing Lab page creation — gallery record
+
+[landing-lab.png](assets/landing-lab.png)
+
+November 3, 2026 authenticated page-creation workspace; English/dark, before generation.
+
+Previously published original; its original capture record is retained in SCREENSHOTS.md.
+
+SHA-256: `9d0965fbea90b63335f34733cfabec146070e496133687aed76dbed81c13a2b0`
+
+### Feed Studio planning — gallery record
+
+[feed-studio-plan-2026-10-25.png](assets/feed-studio-plan-2026-10-25.png)
+
+October 25, 2026 local application capture; Spanish/dark with Riverz creative assets. This is a planning preview.
+
+Original after-plan-local.png from the Feed Studio implementation/verification archive. It shows the native feed-planning interface and does not establish a completed social post.
+
+SHA-256: `f5636b091c41d04b454eefb8488dd18644a107240f8181535048e2182d597789`
+
+### Assistant connections — gallery record
+
+[mcp-settings.png](assets/mcp-settings.png)
+
+November 3, 2026 authenticated settings capture; English/dark. Advanced credential controls are closed.
+
+Previously published original; its original capture record is retained in SCREENSHOTS.md.
+
+SHA-256: `d80890365066a17d307573fab3f2fb6061ab424a44a119ea83345584904f0104`

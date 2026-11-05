@@ -2,46 +2,51 @@
 
 **Research, creative production and commerce tools for ecommerce teams.**
 
-[Product](https://riverzai.com) · [Capabilities](CAPABILITIES.md) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Screenshots](SCREENSHOTS.md)
+[Product](https://riverzai.com) · [Feature tour](FEATURES.md) · [Capabilities](CAPABILITIES.md) · [Engineering](ENGINEERING.md) · [Component cases](CASES.md) · [Screenshots](SCREENSHOTS.md)
 
 Riverz connects product and market research with creative concepts, generated media, video editing and landing-page workflows. Research, Director, the editor, integrations and the Windows preview are parts of this one product.
 
 ## Inside the application
 
-### Product research
+| Workflow | See it in the tour |
+| --- | --- |
+| Research | [Research stages and workflow graph](FEATURES.md#research) |
+| Creative production | [Script, storyboard, alternative hooks and cost review](FEATURES.md#creative-production) |
+| Media and editing | [Playground, provider comparison, timelines, Windows preview and VSL recipe](FEATURES.md#media-and-editing) |
+| Commerce workspaces | [Landing Lab and Feed Studio](FEATURES.md#commerce-workspaces) |
+| Connections | [Assistant connection settings](FEATURES.md#connections) |
 
-![Riverz research workspace with its recorded workflow](assets/research-graph-2026-10-27.png)
+### Research
 
-Archived application capture, October 27, 2026; native Spanish/dark interface with a fictional planning persona. This shows the recorded research workflow.
+![Research workflow](assets/research-graph-2026-10-27.png)
+
+Archived October 27, 2026 application capture; Spanish/dark with a fictional planning persona.
+
+### Director: a populated storyboard
+
+<img src="assets/director-storyboard-archived.jpg" alt="Director populated shot-by-shot storyboard" width="720">
+
+Archived Spanish/dark Director UI with a populated review project. Capture date and release are not independently established.
+
+### Editing: layered tracks and activity
+
+![Layered editor timeline](assets/editor-timeline-2026-10-24.png)
+
+October 24, 2026 local editor QA with synthetic clip blocks. This view demonstrates timeline state; the preview is empty.
 
 ### Landing Lab
 
-![Landing Lab page-creation workspace](assets/landing-lab.png)
+![Landing Lab input workspace](assets/landing-lab.png)
 
-Actual application capture, November 3, 2026; native English/dark interface. This is the page-creation workspace, before generating a page.
+November 3, 2026 authenticated page-creation workspace; English/dark, before generation.
 
-<details>
-<summary>Video editor and additional interface captures</summary>
+### Feed Studio
 
-### Web video editor
+![Feed Studio planning with Riverz assets](assets/feed-studio-plan-2026-10-25.png)
 
-![Web video editor: generation controls and timeline](assets/editor-workspace.png)
+October 25, 2026 local application capture; Spanish/dark. This is a feed-planning preview.
 
-Actual web capture, November 3, 2026; empty project.
-
-### Windows development preview
-
-![Windows development preview with a QA timeline](assets/desktop-editor-qa-2026-10-02.png)
-
-Archived native QA capture, October 2, 2026; English/dark interface with synthetic test media. This is a development preview.
-
-### Director script workspace
-
-![Director script workspace](assets/director-script.png)
-
-Actual web capture, November 3, 2026; native English/dark interface with an empty script.
-
-</details>
+[Explore all 14 interface views](FEATURES.md) · [Capture provenance](SCREENSHOTS.md)
 
 ## My contribution
 
