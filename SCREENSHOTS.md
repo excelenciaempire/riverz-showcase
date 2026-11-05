@@ -189,3 +189,89 @@ November 3, 2026 authenticated settings capture; English/dark. Advanced credenti
 Previously published original; its original capture record is retained in SCREENSHOTS.md.
 
 SHA-256: `d80890365066a17d307573fab3f2fb6061ab424a44a119ea83345584904f0104`
+
+## Live web application review — November 4, 2026
+
+Eight new original captures from the authenticated production application using Chrome `Page.captureScreenshot` through the existing browser-harness default connection. The viewport is 1440 × 1000 CSS pixels. The captures were visually reviewed and copied byte-for-byte. No generated UI, translated overlay, recoloring, cropping or compositing was used.
+
+English was selected through native settings. The selected workspaces use the app's native dark appearance. Spanish research and script content is retained. Capture timestamps below use UTC; local capture date was November 4 in America/New_York.
+
+### Buyer context — live capture
+
+[brain-audience-live-2026-11-04.png](assets/brain-audience-live-2026-11-04.png)
+
+Route: `/brain/audience/avatar`. Captured: `2026-11-05T04:20:22Z`.
+
+English navigation with retained Spanish research from a named QA product. The persona is a research hypothesis, not an identified customer.
+
+SHA-256: `40a8a0f86a293a20ee9b332f127e675b6533fd450b60861b136b68811939c13f`
+
+### Angle Bank and evidence — live capture
+
+[brain-angle-bank-live-2026-11-04.png](assets/brain-angle-bank-live-2026-11-04.png)
+
+Route: `/brain/bank`. Captured: `2026-11-05T04:20:55Z`.
+
+English navigation with Spanish QA research. Scores are internal evaluations; the interface explicitly treats angles as hypotheses until tested.
+
+SHA-256: `4fe249e11ce9fa8dc287ec61351bc8dcae4e4b3243c9c0f5022bd9e1b43c210c`
+
+### Research status and knowledge areas — live capture
+
+[brain-overview-live-2026-11-04.png](assets/brain-overview-live-2026-11-04.png)
+
+Route: `/brain`. Captured: `2026-11-05T04:19:42Z`.
+
+Named QA product; English navigation and retained Spanish summaries. The engine is visibly paused. No resumed research or campaign result is claimed.
+
+SHA-256: `1ae3200e1c7c4f8c223f95ddfe57a26f84184fdfa74be01879f633709d37850a`
+
+### Native Ads controls — live capture
+
+[native-ads-controls-live-2026-11-04.png](assets/native-ads-controls-live-2026-11-04.png)
+
+Route: `/native-ads`. Captured: `2026-11-05T04:17:46Z`.
+
+English interface with one retained Spanish helper sentence. No product is selected, the preview is a format placeholder, and no ad was generated during capture.
+
+SHA-256: `35bef211dff3b737a4f49b27ebcbb38e55f2a9d7c38e59b4d7c8652686c79595`
+
+### Stealer: frames, references and variations — live capture
+
+[stealer-frames-live-2026-11-04.png](assets/stealer-frames-live-2026-11-04.png)
+
+Route: `/stealer/[existing project]`. Captured: `2026-11-05T04:22:35Z`.
+
+Existing project with reference frames and saved AI variations using my avatar. Source reference imagery is shown as workflow input, not original artwork authored by me. No new cloning or paid generation ran for this capture.
+
+SHA-256: `531317c4fe6cdaba5f1563cdc31f671fe96e05dd2c64be2ff8908491b339bb02`
+
+### Voice design and library — live capture
+
+[voice-design-library-live-2026-11-04.png](assets/voice-design-library-live-2026-11-04.png)
+
+Route: `/voices`. Captured: `2026-11-05T04:23:32Z`.
+
+English interface; design inputs are empty. Library entries are third-party provider voices. No voice was created, cloned or played during capture.
+
+SHA-256: `a0cf1ec3701d435c0e7b9369c0b835cea9bb800ee8d7f33ef5b4fcf2c7bb4889`
+
+### VSL production approval — live capture
+
+[vsl-production-review-live-2026-11-04.png](assets/vsl-production-review-live-2026-11-04.png)
+
+Route: `/vsl/[existing project]`. Captured: `2026-11-05T04:24:20Z`.
+
+English interface with my Spanish Riverz script. Production is awaiting approval; there are no sequences yet and no export was performed.
+
+SHA-256: `3cbf73380511b496db5c02efeef59dc986203b1fb23ff7373646c9b13615f4e1`
+
+### Playground: model and provider comparison — live capture
+
+[playground-pricing-live-2026-11-04.png](assets/playground-pricing-live-2026-11-04.png)
+
+Route: `/playground/precios`. Captured: `2026-11-05T04:25:23Z`.
+
+English interface. Prices are the historical values displayed at capture time, not a current quote or proof of provider availability.
+
+SHA-256: `d514249c1117cc17037985785e90436113884a82e89f9b666e179519d7cde7a4`

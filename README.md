@@ -8,45 +8,33 @@ Riverz connects product and market research with creative concepts, generated me
 
 ## Inside the application
 
-| Workflow | See it in the tour |
+| Workflow | Explore |
 | --- | --- |
-| Research | [Research stages and workflow graph](FEATURES.md#research) |
-| Creative production | [Script, storyboard, alternative hooks and cost review](FEATURES.md#creative-production) |
-| Media and editing | [Playground, provider comparison, timelines, Windows preview and VSL recipe](FEATURES.md#media-and-editing) |
-| Commerce workspaces | [Landing Lab and Feed Studio](FEATURES.md#commerce-workspaces) |
-| Connections | [Assistant connection settings](FEATURES.md#connections) |
+| Research | [Buyer context](FEATURES.md#buyer-context), [Angle Bank](FEATURES.md#angle-bank-and-evidence) and [research status](FEATURES.md#research-status-and-knowledge-areas) |
+| Advertising | [Native Ads controls](FEATURES.md#native-ads-controls), scripts and storyboards |
+| Media production | [Stealer frames and variations](FEATURES.md#stealer-frames-references-and-variations), [voices](FEATURES.md#voice-design-and-library), [VSL approval](FEATURES.md#vsl-production-approval) and [provider comparison](FEATURES.md#playground-model-and-provider-comparison) |
+| Editing and commerce | [Web/Windows timelines, Landing Lab and Feed Studio](FEATURES.md#more-interface-views) |
+| Integrations | [Account-scoped assistant connections](components/assistant-integrations/README.md) |
 
-### Research
+### From research to creative decisions
 
-![Research workflow](assets/research-graph-2026-10-27.png)
+![Angle Bank with root causes, hypotheses and evidence](assets/brain-angle-bank-live-2026-11-04.png)
 
-Archived October 27, 2026 application capture; Spanish/dark with a fictional planning persona.
+Live English interface with retained Spanish research from a QA product. Angles are hypotheses awaiting tests.
 
-### Director: a populated storyboard
+### From reference frames to saved variations
 
-<img src="assets/director-storyboard-archived.jpg" alt="Director populated shot-by-shot storyboard" width="720">
+![Stealer showing reference frames and saved variations using my avatar](assets/stealer-frames-live-2026-11-04.png)
 
-Archived Spanish/dark Director UI with a populated review project. Capture date and release are not independently established.
+Live Stealer project. Reference frames and saved AI variations are distinguished; no new generation ran for this capture.
 
-### Editing: layered tracks and activity
+### Voice and media workflows
 
-![Layered editor timeline](assets/editor-timeline-2026-10-24.png)
+![Voice design inputs and provider library](assets/voice-design-library-live-2026-11-04.png)
 
-October 24, 2026 local editor QA with synthetic clip blocks. This view demonstrates timeline state; the preview is empty.
+Live voice workspace with provider-library entries and empty design inputs.
 
-### Landing Lab
-
-![Landing Lab input workspace](assets/landing-lab.png)
-
-November 3, 2026 authenticated page-creation workspace; English/dark, before generation.
-
-### Feed Studio
-
-![Feed Studio planning with Riverz assets](assets/feed-studio-plan-2026-10-25.png)
-
-October 25, 2026 local application capture; Spanish/dark. This is a feed-planning preview.
-
-[Explore all 14 interface views](FEATURES.md) · [Capture provenance](SCREENSHOTS.md)
+[Explore all 22 interface views](FEATURES.md) · [Capture provenance](SCREENSHOTS.md)
 
 ## My contribution
 

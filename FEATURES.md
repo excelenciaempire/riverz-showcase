@@ -1,10 +1,83 @@
 # Feature tour
 
-Research, creative production, editing, commerce workspaces and account connections are parts of the same Riverz AI product.
+Research, creative production, editing and commerce workspaces are parts of one Riverz AI product.
 
-[Overview](README.md) · [Capture provenance](SCREENSHOTS.md)
+[Overview](README.md) · [Capabilities](CAPABILITIES.md) · [Capture provenance](SCREENSHOTS.md)
 
-[Research](#research) · [Creative production](#creative-production) · [Media and editing](#media-and-editing) · [Commerce workspaces](#commerce-workspaces) · [Connections](#connections)
+## Live web application
+
+Captured from the authenticated application on November 4, 2026 (Eastern Time). English was selected through the app's own settings. The interface retains its native dark appearance; existing Spanish research and script content is unchanged.
+
+[Buyer context](#buyer-context) · [Angle Bank and evidence](#angle-bank-and-evidence) · [Native Ads controls](#native-ads-controls) · [Stealer](#stealer-frames-references-and-variations) · [Voice design and library](#voice-design-and-library) · [VSL production approval](#vsl-production-approval) · [Playground](#playground-model-and-provider-comparison)
+
+### Buyer context
+
+Inspect the buyer profile, stated unknowns and buying drivers within the research workspace.
+
+![Buyer context](assets/brain-audience-live-2026-11-04.png)
+
+*English navigation with retained Spanish research from a named QA product. The persona is a research hypothesis, not an identified customer.*
+
+### Angle Bank and evidence
+
+Follow a proposed root cause into angles, hooks and supporting evidence before composing a concept.
+
+![Angle Bank and evidence](assets/brain-angle-bank-live-2026-11-04.png)
+
+*English navigation with Spanish QA research. Scores are internal evaluations; the interface explicitly treats angles as hypotheses until tested.*
+
+### Research status and knowledge areas
+
+See completed research areas, empty data sources and the state of the background research engine together.
+
+![Research status and knowledge areas](assets/brain-overview-live-2026-11-04.png)
+
+*Named QA product; English navigation and retained Spanish summaries. The engine is visibly paused. No resumed research or campaign result is claimed.*
+
+### Native Ads controls
+
+Choose a format, creative approach, angle and length before requesting a batch.
+
+![Native Ads controls](assets/native-ads-controls-live-2026-11-04.png)
+
+*English interface with one retained Spanish helper sentence. No product is selected, the preview is a format placeholder, and no ad was generated during capture.*
+
+### Stealer: frames, references and variations
+
+Review extracted frames beside saved avatar variations and prepare the selected shots for video work.
+
+![Stealer: frames, references and variations](assets/stealer-frames-live-2026-11-04.png)
+
+*Existing project with reference frames and saved AI variations using my avatar. Source reference imagery is shown as workflow input, not original artwork authored by me. No new cloning or paid generation ran for this capture.*
+
+### Voice design and library
+
+Prepare a voice description and browse provider voices in the same workspace.
+
+![Voice design and library](assets/voice-design-library-live-2026-11-04.png)
+
+*English interface; design inputs are empty. Library entries are third-party provider voices. No voice was created, cloned or played during capture.*
+
+### VSL production approval
+
+Inspect a saved script and the approval boundary before generating production blocks.
+
+![VSL production approval](assets/vsl-production-review-live-2026-11-04.png)
+
+*English interface with my Spanish Riverz script. Production is awaiting approval; there are no sequences yet and no export was performed.*
+
+### Playground: model and provider comparison
+
+Compare displayed provider configurations for a selected model, duration, resolution and aspect ratio.
+
+![Playground: model and provider comparison](assets/playground-pricing-live-2026-11-04.png)
+
+*English interface. Prices are the historical values displayed at capture time, not a current quote or proof of provider availability.*
+
+## More interface views
+
+<details>
+<summary>14 earlier web, desktop and component captures</summary>
 
 ## Research
 
@@ -142,12 +215,15 @@ Inspect the account-scoped assistant connection settings.
 *November 3, 2026 authenticated settings capture; English/dark. Advanced credential controls are closed.*
 
 
+
+</details>
+
 ## Coverage and implementation notes
 
 | Area | Coverage boundary |
 | --- | --- |
-| Brain detail pages, customer voice, competitor research and Copilot | Research is represented by the workflow graph; individual populated detail pages are not pictured here. |
-| Static/native ads, product images, Canvas, Stealer, B-roll and voice management | Implementation scope is described in [Capabilities](CAPABILITIES.md); no selected capture of these dedicated workspaces is published in this tour. |
+| Research detail pages | Buyer context and Angle Bank are pictured above from an existing QA product; dedicated customer-voice, competitor and Copilot views are not pictured. |
+| Additional creative workspaces | Native Ads, Stealer and voice management are pictured above. Static-ad reference images and product-image references did not finish loading in the selected captures; those incomplete captures were excluded. Canvas and a populated B-roll library are not pictured. |
 | Landing editor, store publishing and CRO experiments | The input workspace is pictured; generated pages, publication receipts and experiment outcomes are not pictured. |
 | Autopilot, Meta/TikTok campaigns, reports and learning | No account-specific campaign or execution screenshot is published here. |
 
