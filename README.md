@@ -11,9 +11,9 @@ Riverz connects product and market research with creative concepts, generated me
 | Workflow | Explore |
 | --- | --- |
 | Research | [Buyer context](FEATURES.md#buyer-context), [Angle Bank](FEATURES.md#angle-bank-and-evidence) and [research status](FEATURES.md#research-status-and-knowledge-areas) |
-| Advertising | [Native Ads controls](FEATURES.md#native-ads-controls), scripts and storyboards |
-| Media production | [Stealer frames and variations](FEATURES.md#stealer-frames-references-and-variations), [voices](FEATURES.md#voice-design-and-library), [VSL approval](FEATURES.md#vsl-production-approval) and [provider comparison](FEATURES.md#playground-model-and-provider-comparison) |
-| Editing and commerce | [Web/Windows timelines, Landing Lab and Feed Studio](FEATURES.md#more-interface-views) |
+| Advertising | [Native Ads controls](FEATURES.md#native-ads-controls), [reference templates](FEATURES.md#static-ad-reference-library), scripts and storyboards |
+| Media production | [Stealer](FEATURES.md#stealer-frames-references-and-variations), [Canvas](FEATURES.md#canvas-node-workflow), [B-roll](FEATURES.md#populated-b-roll-library), voices and VSL workflows |
+| Editing and commerce | [Product images](FEATURES.md#product-image-reference-carousels), [CRO setup](FEATURES.md#cro-demo-store-setup), [timelines, Landing Lab and Feed Studio](FEATURES.md#more-interface-views) |
 | Integrations | [Account-scoped assistant connections](components/assistant-integrations/README.md) |
 
 ### From research to creative decisions
@@ -28,13 +28,13 @@ Live English interface with retained Spanish research from a QA product. Angles 
 
 Live Stealer project. Reference frames and saved AI variations are distinguished; no new generation ran for this capture.
 
-### Voice and media workflows
+### Product-image workflows
 
-![Voice design inputs and provider library](assets/voice-design-library-live-2026-11-04.png)
+![Product-image reference carousels in Riverz](assets/product-image-library-reviewed-live-2026-11-05.png)
 
-Live voice workspace with provider-library entries and empty design inputs.
+Live product-image reference browser. Example assets belong to Ritual; my work is the application and its workflow.
 
-[Explore all 22 interface views](FEATURES.md) · [Capture provenance](SCREENSHOTS.md)
+[Explore all 27 interface views](FEATURES.md) · [Capture provenance](SCREENSHOTS.md)
 
 ## My contribution
 

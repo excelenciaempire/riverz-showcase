@@ -275,3 +275,59 @@ Route: `/playground/precios`. Captured: `2026-11-05T04:25:23Z`.
 English interface. Prices are the historical values displayed at capture time, not a current quote or proof of provider availability.
 
 SHA-256: `d514249c1117cc17037985785e90436113884a82e89f9b666e179519d7cde7a4`
+
+## Additional live workspaces — November 4–5, 2026
+
+Five original Chrome `Page.captureScreenshot` images from the authenticated production application, using the same default browser-harness connection and one task-owned tab. Viewport: 1440 × 1000 CSS pixels. Capture timestamps and filenames below use UTC. English navigation and the native dark interface are retained.
+
+Lazy-loaded reference images were allowed to load in the active task tab, then visually reviewed. No image replacement, translation overlay, color change, cropping or compositing was applied. Original source bytes were copied unchanged.
+
+### Static ad reference library — additional live capture
+
+[static-ads-library-reviewed-live-2026-11-05.png](assets/static-ads-library-reviewed-live-2026-11-05.png)
+
+Route: `/static-ads`. Captured: `2026-11-05T05:01:38Z`.
+
+Live English navigation with reference creatives in their original languages. Example assets belong to their respective brands. This shows the application reference library; no new advertisement was generated or launched.
+
+SHA-256: `a1db52bca0d676bf8bb08536914142304b3e8b9cead3bed094891e78a7f937d3`
+
+### Product-image reference carousels — additional live capture
+
+[product-image-library-reviewed-live-2026-11-05.png](assets/product-image-library-reviewed-live-2026-11-05.png)
+
+Route: `/product-images`. Captured: `2026-11-05T05:01:33Z`.
+
+Live English interface with Ritual reference examples. The example imagery and trademarks belong to Ritual; my work is the application and its workflow. No adapted carousel was generated during capture.
+
+SHA-256: `d578abbd07b49fcf73698a7338358ca718dde2b2fb2c204e3faeacea84958cff`
+
+### Canvas node workflow — additional live capture
+
+[canvas-workflow-fit-live-2026-11-05.png](assets/canvas-workflow-fit-live-2026-11-05.png)
+
+Route: `/canvas`. Captured: `2026-11-05T04:58:09Z`.
+
+Existing saved draft graph before execution. Media nodes visibly read Not generated. The view was fitted through the native control; no media-generation request was made.
+
+SHA-256: `e1c3ff99ec3c464f7c5148bfef8a825819b901c318fe8516c3b0646d8705dcdc`
+
+### Populated B-roll library — additional live capture
+
+[broll-reference-library-live-2026-11-05.png](assets/broll-reference-library-live-2026-11-05.png)
+
+Route: `/library`. Captured: `2026-11-05T04:57:32Z`.
+
+Existing reference corpus: 264 clips, 134 ready and 0 owned at capture time. The clips are reference material rather than original video production attributed to me. No scraping, import or upload ran for this capture.
+
+SHA-256: `961b2c0225c7be43aa0bd241f828e2410fa027bcadf73c3e8459edf41e515129`
+
+### CRO demo store setup — additional live capture
+
+[cro-demo-setup-live-2026-11-05.png](assets/cro-demo-setup-live-2026-11-05.png)
+
+Route: `/landing-lab/mapa`. Captured: `2026-11-05T04:59:31Z`.
+
+Riverz Demo development store with tracking setup pending and no active experiment. This is the setup interface; no measured conversion result, installation change or test launch is claimed.
+
+SHA-256: `4272663cf356fce54b720d7adf52c5489fc86fa611068ebd457868473455651b`

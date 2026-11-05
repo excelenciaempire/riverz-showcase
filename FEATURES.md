@@ -6,9 +6,9 @@ Research, creative production, editing and commerce workspaces are parts of one 
 
 ## Live web application
 
-Captured from the authenticated application on November 4, 2026 (Eastern Time). English was selected through the app's own settings. The interface retains its native dark appearance; existing Spanish research and script content is unchanged.
+Captured from the authenticated application on November 4–5, 2026 (Eastern Time). English was selected through the app's own settings. The interface retains its native dark appearance; existing Spanish research and script content is unchanged.
 
-[Buyer context](#buyer-context) · [Angle Bank and evidence](#angle-bank-and-evidence) · [Native Ads controls](#native-ads-controls) · [Stealer](#stealer-frames-references-and-variations) · [Voice design and library](#voice-design-and-library) · [VSL production approval](#vsl-production-approval) · [Playground](#playground-model-and-provider-comparison)
+[Research](#buyer-context) · [Ads and product images](#static-ad-reference-library) · [Media workspaces](#canvas-node-workflow) · [Commerce](#cro-demo-store-setup) · [Earlier views](#more-interface-views)
 
 ### Buyer context
 
@@ -73,6 +73,48 @@ Compare displayed provider configurations for a selected model, duration, resolu
 ![Playground: model and provider comparison](assets/playground-pricing-live-2026-11-04.png)
 
 *English interface. Prices are the historical values displayed at capture time, not a current quote or proof of provider availability.*
+
+## More live workflows
+
+### Static ad reference library
+
+Browse visual references before selecting a template or moving into ideation.
+
+![Static ad reference library](assets/static-ads-library-reviewed-live-2026-11-05.png)
+
+*Live English navigation with reference creatives in their original languages. Example assets belong to their respective brands. This shows the application reference library; no new advertisement was generated or launched.*
+
+### Product-image reference carousels
+
+Review product-image sequences and select the source frames for an adaptation workflow.
+
+![Product-image reference carousels](assets/product-image-library-reviewed-live-2026-11-05.png)
+
+*Live English interface with Ritual reference examples. The example imagery and trademarks belong to Ritual; my work is the application and its workflow. No adapted carousel was generated during capture.*
+
+### Canvas node workflow
+
+Connect image and video nodes to pass references through a visual workflow.
+
+![Canvas node workflow](assets/canvas-workflow-fit-live-2026-11-05.png)
+
+*Existing saved draft graph before execution. Media nodes visibly read Not generated. The view was fitted through the native control; no media-generation request was made.*
+
+### Populated B-roll library
+
+Browse a product-scoped clip collection with search, categories, duration previews and source controls.
+
+![Populated B-roll library](assets/broll-reference-library-live-2026-11-05.png)
+
+*Existing reference corpus: 264 clips, 134 ready and 0 owned at capture time. The clips are reference material rather than original video production attributed to me. No scraping, import or upload ran for this capture.*
+
+### CRO demo store setup
+
+Inspect the store setup steps and the navigation for diagnosis, page variants, A/B comparison and results.
+
+![CRO demo store setup](assets/cro-demo-setup-live-2026-11-05.png)
+
+*Riverz Demo development store with tracking setup pending and no active experiment. This is the setup interface; no measured conversion result, installation change or test launch is claimed.*
 
 ## More interface views
 
@@ -223,8 +265,8 @@ Inspect the account-scoped assistant connection settings.
 | Area | Coverage boundary |
 | --- | --- |
 | Research detail pages | Buyer context and Angle Bank are pictured above from an existing QA product; dedicated customer-voice, competitor and Copilot views are not pictured. |
-| Additional creative workspaces | Native Ads, Stealer and voice management are pictured above. Static-ad reference images and product-image references did not finish loading in the selected captures; those incomplete captures were excluded. Canvas and a populated B-roll library are not pictured. |
-| Landing editor, store publishing and CRO experiments | The input workspace is pictured; generated pages, publication receipts and experiment outcomes are not pictured. |
+| Creative and media workspaces | Static/native ads, product-image references, Canvas, Stealer, B-roll and voice management are pictured above. Reference-library imagery retains its source ownership; execution states are identified per capture. |
+| Landing editor, store publishing and CRO experiments | Landing Lab input and demo CRO setup are pictured. The visual landing editor, new publication receipts, live test execution and experiment results are not pictured. |
 | Autopilot, Meta/TikTok campaigns, reports and learning | No account-specific campaign or execution screenshot is published here. |
 
 Screenshots are interface evidence at their recorded state. They do not establish that every provider is connected or that an end-to-end production run succeeded.
